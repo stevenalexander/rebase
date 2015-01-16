@@ -2,7 +2,7 @@
 
 Example of rebase usage
 
-![Alt text](./master/rebase.gif)
+![Alt text](https://raw.githubusercontent.com/stevenalexander/rebase/master/rebase.gif)
 
 ```
 # checkout new branch off master
